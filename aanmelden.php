@@ -18,14 +18,14 @@
     </header>
     <main>
 
-        <h2>Inloggen</h2>
-        <form action='login.php' method="post">
+        <h2>Aanmelden</h2>
+        <form action='create-account.php' method="post">
             <label>Gebruikersnaam:</label>
             <input type='text' name='name' placeholder='Gebruikersnaam...'>
             <label>Wachtwoord:</label>
             <input type='password' name='pswd' placeholder="Wachtwoord...">
-            <input type='submit' value="Inloggen">
+            <input type='submit' value="Aanmelden">
         </form>
-        <p>Heb je nog geen account? <a href="aanmelden.php">Aanmelden</a></p>
+        <p>Heb je al een account? <a href="inloggen.php">Inloggen</a></p>
 </body>
 </html>

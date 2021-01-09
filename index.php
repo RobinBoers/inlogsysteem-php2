@@ -21,5 +21,7 @@
         <h2>Welkom</h2>
         <p>Welkm op mijn Website</p>
         <a href="inloggen.php">Inloggen</a>
+
+    </main>
 </body>
 </html>
